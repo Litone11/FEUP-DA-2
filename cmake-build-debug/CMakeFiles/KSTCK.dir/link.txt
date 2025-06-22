@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2025.1.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\KSTCK.dir/objects.a
-C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\KSTCK.dir/objects.a @CMakeFiles\KSTCK.dir\objects1.rsp
-C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\KSTCK.dir/objects.a -Wl,--no-whole-archive -o KSTCK.exe -Wl,--out-implib,libKSTCK.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\KSTCK.dir\linkLibs.rsp
